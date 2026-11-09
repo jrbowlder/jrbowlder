@@ -10,7 +10,15 @@ Outside of shift I run trails, ski, and work on a 1994 Land Rover Discovery. I r
 - **[web-crawler](https://github.com/jrbowlder/web-crawler)**: an async site crawler that visits every page on a site and writes a JSON report.
 - **[toy_agent_bootdev](https://github.com/jrbowlder/toy_agent_bootdev)**: a small AI agent that can list files, read them, run Python, and write code back.
 
-## What I'm learning
+## Certifications
 
-- **[Boot.dev](https://www.boot.dev)** Data Analyst path: SQL, Python, data modeling. The crawler, the static site generator and the Asteroids clone above came from the earlier backend chapters.
-- Tools I use daily: Arch Linux, Neovim with LazyVim, Docker for self-hosted services.
+[![Boot.dev Data Analyst Learning Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ade778a6-32db-40ee-92bb-100704570f1f.jpeg?v=1794253580)](https://www.boot.dev/certificates/ade778a6-32db-40ee-92bb-100704570f1f)
+
+**Boot.dev Data Analyst Learning Path**, completed. SQL, Python and data modeling. The crawler, the static site generator and the Asteroids clone above came from the earlier backend chapters.
+
+## Tools I use daily
+
+- Arch Linux with Neovim and LazyVim
+- Docker, for the services I self-host
+- SQLite and Metabase for data work
+
